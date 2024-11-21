@@ -1,0 +1,21 @@
+{
+  "name": "@types/philippines",
+  "version": "1.0.0",
+  "description": "Types for package philippines",
+  "main": "index.d.ts",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "typescript",
+    "types",
+    "philippines"
+  ],
+  "author": "Faci-Tech <contact@faci-tech.com> (https://faci-tech.com)",
+  "homepage": "https://github.com/faci-tech/-types-philippines",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
